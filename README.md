@@ -1,4 +1,8 @@
 # Offer for you
 ```
-after check source code, please share it to anywhere.
-as a frontend developer, i will build a portfolio website for you. i created a service on Fiverr - You can hire me
+after checking the source code, please share it anywhere.
+as a front-end developer, I will build a portfolio website for you. I created a service on Fiverr - You can hire me
+
+[](https://www.fiverr.com/s/o6L838)
+
+```
